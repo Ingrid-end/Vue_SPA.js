@@ -1,2 +1,2 @@
 # Vue_SPA.js
-Primeiro de Vue.js &lt;3
+Primeiro de SPA_Vue.js &lt;3
